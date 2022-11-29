@@ -90,7 +90,7 @@ type Resource struct {
 
 func main() {
 
-	AddOrganization()
+	// AddOrganization()
 }
 
 func init_DB() *mongo.Client {
